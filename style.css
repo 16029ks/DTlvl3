@@ -1,0 +1,45 @@
+
+
+body {
+    margin: 0;
+}
+
+
+#text {
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+
+
+#P1 {
+    background-image: url();
+    height: 640px;
+    background-attachment: fixed;
+}
+
+
+#P2 {
+    background-image: url();
+    height: 640px;
+    background-attachment: fixed;
+
+    
+}
+
+
+#P3 {
+    background-image: url();
+    height: 640px;
+    background-attachment: fixed;
+    
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
